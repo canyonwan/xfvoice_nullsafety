@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - xfvoice (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - xfvoice (from `.symlinks/plugins/xfvoice/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  xfvoice:
+    :path: ".symlinks/plugins/xfvoice/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  xfvoice: 8180e37d9bda8d2282a73643dd59a941a99ab7f8
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.2
